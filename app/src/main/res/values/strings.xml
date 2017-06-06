@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoShow</string>
+    <string name="login">Логин:</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="ip_address">IP address</string>
+</resources>
